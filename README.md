@@ -43,7 +43,7 @@
 
 <!-- POSTS:START -->
 - `2026-09-19` **[比快更快](https://tiaofeng.github.io/posts/faster-than-fast.html)** —— 为何要做一个本地的词元统计工具，TA有什么优势？
-- `2026-09-18` **[与你相遇，我之荣幸](https://tiaofeng.github.io/posts/pleasure-to-meet-you.html)** —— 關山難越，誰悲失路之人；萍水相逢，盡是他鄉之客。
+- `2026-09-18` **[与你相遇，我之荣幸](https://tiaofeng.github.io/posts/pleasure-to-meet-you.html)** —— 相逢意气为君饮，系马高楼垂柳边。
 <!-- POSTS:END -->
 
 [俯瞰花园 · 归档 ↗](https://tiaofeng.github.io/archive.html) · [订阅 · RSS ↗](https://tiaofeng.github.io/feed.xml)
