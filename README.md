@@ -32,7 +32,7 @@
 | :--- | :--- | :--- |
 | **[tokrs](https://github.com/TiaoFeng/tokrs)** | 本地词元统计CLI，安全高效的统计本地词元用量，支持 Claude / Codex / OpenCode 等工具。 | `Rust` `Token-Usage` `Tools` |
 | **[rstodo](https://github.com/TiaoFeng/rstodo)** | 轻量的本地Todo list TUI，美观高效。 | `Rust` `TUI` `todo-list` |
-| **[拾光课程表-教务适配](https://github.com/XingHeYuZhuan/shiguangschedule)** | 一觉醒来，作者删库跑路了？？？好的吧，原来是GitHub的大手。 | `Schedule` `Tools` |
+| **[拾光课程表](https://github.com/XingHeYuZhuan/shiguangschedule)** | 为项目适配学校教务系统，以快速导入课程。 | `Schedule` `Tools` |
 <!-- PROJECTS:END -->
 
 [查看全部仓库 ↗](https://github.com/TiaoFeng?tab=repositories)
