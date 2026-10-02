@@ -31,6 +31,7 @@
 | 名称 | 品种 | 标签 |
 | :--- | :--- | :--- |
 | **[tokrs](https://github.com/TiaoFeng/tokrs)** | 本地词元统计CLI，安全高效的统计本地词元用量，支持 Claude / Codex / OpenCode 等工具。 | `Rust` `Token-Usage` `Tools` |
+| **[ohmyXJTU](https://github.com/TiaoFeng/ohmyXJTU)** | XJTU TUI 工具箱，查询考勤、作业完成情况。 | `Rust` `XJTU` `Tools` |
 | **[rstodo](https://github.com/TiaoFeng/rstodo)** | 轻量的本地Todo list TUI，美观高效。 | `Rust` `TUI` `todo-list` |
 | **[拾光课程表](https://github.com/XingHeYuZhuan/shiguangschedule)** | 为项目适配学校教务系统，以快速导入课程。 | `Schedule` `Tools` |
 <!-- PROJECTS:END -->
@@ -42,6 +43,7 @@
 *翻动树叶*
 
 <!-- POSTS:START -->
+- `2026-10-02` **[为您在 XJTU 的学习生活加速](https://tiaofeng.github.io/posts/accelerate-your-academic-life.html)** —— 已有诸多优秀的 XJTU 工具箱，为何还要重复造轮子？
 - `2026-09-19` **[比快更快](https://tiaofeng.github.io/posts/faster-than-fast.html)** —— 为何要做一个本地的词元统计工具，TA有什么优势？
 - `2026-09-18` **[与你相遇，我之荣幸](https://tiaofeng.github.io/posts/pleasure-to-meet-you.html)** —— 相逢意气为君饮，系马高楼垂柳边。
 <!-- POSTS:END -->
