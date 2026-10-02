@@ -44,7 +44,7 @@
 
 <!-- POSTS:START -->
 - `2026-10-02` **[为您在 XJTU 的学习生活加速](https://tiaofeng.github.io/posts/accelerate-your-academic-life.html)** —— 已有诸多优秀的 XJTU 工具箱，为何还要重复造轮子？
-- `2026-09-19` **[比快更快](https://tiaofeng.github.io/posts/faster-than-fast.html)** —— 为何要做一个本地的词元统计工具，TA有什么优势？
+- `2026-09-19` **[快速统计您的词元用量](https://tiaofeng.github.io/posts/quickly-track-token-usage.html)** —— 为何要做一个本地的词元统计工具，TA有什么优势？
 - `2026-09-18` **[与你相遇，我之荣幸](https://tiaofeng.github.io/posts/pleasure-to-meet-you.html)** —— 相逢意气为君饮，系马高楼垂柳边。
 <!-- POSTS:END -->
 
